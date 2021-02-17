@@ -3,6 +3,6 @@ require_relative "./user.rb"
 
 class Teacher < User
 
-  def teach(knowledge)
+  def teach
   end
 end
